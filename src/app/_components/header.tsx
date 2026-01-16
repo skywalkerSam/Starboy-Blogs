@@ -19,7 +19,7 @@ const Header = () => {
               clip-rule="evenodd"
             ></path>
           </svg>
-          <span className="hover:text-primary/60 hover:underline">Blog</span>
+          <span className="hover:text-primary hover:underline">Blog</span>
         </div>
       </Link>
       .

@@ -31,7 +31,7 @@ const config = {
 
   // For reducing build times and type errors.)
   typescript: { ignoreBuildErrors: true },
-  eslint: { ignoreDuringBuilds: true },
+  // eslint: { ignoreDuringBuilds: true },
 
   // Only disable for development to speed up iteration
   // typescript: {
