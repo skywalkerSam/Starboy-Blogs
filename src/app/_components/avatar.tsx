@@ -18,7 +18,7 @@ const Avatar = ({ name, picture }: Props) => {
         target="_blank"
         rel="noopener noreferrer"
       >
-        <div className="text-xl font-bold hover:underline">{name}</div>
+        <div className="hover:underline">{name}</div>
       </a>
     </div>
   );

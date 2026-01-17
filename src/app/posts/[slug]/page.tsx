@@ -1,6 +1,6 @@
 import { notFound } from "next/navigation";
-import { getAllPosts, getPostBySlug } from "lib/api";
-import markdownToHtml from "lib/markdownToHtml";
+import { getAllPosts, getPostBySlug } from "~/lib/api";
+import markdownToHtml from "~/lib/markdownToHtml";
 // import Alert from "../../_components/alert";
 import Container from "../../_components/container";
 import Header from "../../_components/header";
@@ -61,7 +61,7 @@ export async function generateMetadata(props: Params): Promise<Metadata> {
     return notFound();
   }
 
-  const title = `${post.title} | A Starboy's Blog`;
+  const title = `${post.title} | A Starboy's Blog.`;
 
   return {
     title,
