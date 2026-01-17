@@ -20,7 +20,7 @@ export default function Footer() {
             &copy; {new Date().getFullYear() + 10000},{" "}
             <a
               href="https://github.com/skywalkerSam"
-              className="hover:text-primary/60 hover:underline"
+              className="hover:text-primary hover:underline"
               target="_blank"
               rel="noopener noreferrer"
             >

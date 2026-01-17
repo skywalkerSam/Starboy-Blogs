@@ -3,7 +3,7 @@ import Link from "next/link";
 const Header = () => {
   return (
     <h2 className="mt-8 mb-20 flex items-center text-2xl leading-tight font-bold tracking-tight md:text-4xl md:tracking-tighter">
-      <Link href="/">
+      <Link href="/" className="hover:text-primary">
         <div className="flex-inline flex">
           <svg
             width="15"
@@ -19,7 +19,7 @@ const Header = () => {
               clip-rule="evenodd"
             ></path>
           </svg>
-          <span className="hover:text-primary hover:underline">Blog</span>
+          <span className="hover:underline">Blog</span>
         </div>
       </Link>
       .
