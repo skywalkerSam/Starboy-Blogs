@@ -17,7 +17,7 @@ export function PostBody({ content }: Props) {
     <section className="flex items-center justify-center">
       {parsedContent ? (
         <article
-          className="prose mx-auto max-w-xl break-all lg:max-w-3xl xl:max-w-4xl"
+          className="prose mx-auto max-w-xl break-all lg:max-w-3xl xl:max-w-4xl font-paprika"
           dangerouslySetInnerHTML={{ __html: parsedContent }}
         />
       ) : (
