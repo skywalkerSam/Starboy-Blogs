@@ -42,7 +42,9 @@ While we exist, might as well make the best of it…
 
 &nbsp;
 
-**Sources:**
+## **Sources:**
+
+&nbsp;
 
 – image by [*Nadine Marfurt*](https://unsplash.com/@nadine3?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [*Unsplash*](https://unsplash.com/photos/starry-night-sky-reflected-in-a-calm-lake-rBHDjvgld5c?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
       
