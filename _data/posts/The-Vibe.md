@@ -78,7 +78,7 @@ it is in strange moments like these, when the entire essence of existence comes 
 
 &nbsp;
 
-Until Next Time... ✌️
+Until next time... ✌️
 
 &nbsp;
 

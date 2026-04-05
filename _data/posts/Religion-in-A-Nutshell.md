@@ -100,7 +100,7 @@ _For the love of living deep…_
 
 &nbsp;
 
-Until Next Time... ✌️
+Until next time... ✌️
 
 &nbsp;
 

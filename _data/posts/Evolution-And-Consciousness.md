@@ -128,7 +128,7 @@ _A question trying to answer itself…_
 
 &nbsp;
 
-Until Next Time... ✌️
+Until next time... ✌️
 
 &nbsp;
 

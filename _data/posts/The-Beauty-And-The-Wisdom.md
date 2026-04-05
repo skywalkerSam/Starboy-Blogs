@@ -120,7 +120,7 @@ _Oh, the delicate balance..._
 
 &nbsp;
 
-Until Next Time... ✌️
+Until next time... ✌️
 
 &nbsp;
 

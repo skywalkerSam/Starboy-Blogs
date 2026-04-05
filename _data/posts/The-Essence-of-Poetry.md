@@ -66,7 +66,7 @@ Poetry is good.
 
 &nbsp;
 
-Until Next Time... ✌️
+Until next time... ✌️
 
 &nbsp;
 

@@ -62,7 +62,7 @@ who defines the narrative."
 
 &nbsp;
 
-Until Next Time... ✌️
+Until next time... ✌️
 
 &nbsp;
 

@@ -56,7 +56,7 @@ Try to imagine being on the surface of the moon, you look around, there’s noth
 
 &nbsp;
 
-Until Next Time... ✌️
+Until next time... ✌️
 
 &nbsp;
 

@@ -89,7 +89,7 @@ _Yeah, sometimes, even i wonder what the hell am i talking about?_
 
 &nbsp;
 
-Until Next Time... ✌️
+Until next time... ✌️
 
 &nbsp;
 

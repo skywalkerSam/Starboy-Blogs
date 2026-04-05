@@ -50,7 +50,7 @@ Playing emotional roulette as it seems, as if i wake up just to suffer. Neverthe
 
 &nbsp;
 
-Until Next Time... ✌️
+Until next time... ✌️
 
 &nbsp;
 

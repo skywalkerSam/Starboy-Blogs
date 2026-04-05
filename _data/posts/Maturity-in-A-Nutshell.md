@@ -128,7 +128,7 @@ _Honesty is quite an addictive drug; Once you try it, you're hooked.)_
 
 &nbsp;
 
-Until Next Time... ✌️
+Until next time... ✌️
 
 &nbsp;
 

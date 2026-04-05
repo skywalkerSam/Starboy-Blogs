@@ -241,7 +241,7 @@ of a flower's existence on a tree...
 
 &nbsp;
 
-Until Next Time... ✌️
+Until next time... ✌️
 
 &nbsp;
 
