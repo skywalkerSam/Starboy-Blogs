@@ -1,6 +1,6 @@
 ---
-title: "Maturity – in A Nutshell..."
-excerpt: "Just get started and be honest, and everything will fall into place..."
+title: "Maturity–in A Nutshell"
+excerpt: "Just get started, be honest, and everything will fall into place."
 coverImage: "https://images.unsplash.com/photo-1607211851821-8be3cd6146f0"
 date: "2025-09-24"
 author:
@@ -58,7 +58,7 @@ Closed-mindedness is ignorance solidified..."
 
 &nbsp;
 
-&emsp; And so, i leave you with this: “Just get started and be honest, and everything will fall into place...”
+&emsp; And so, i leave you with this: “Just get started, be honest, and everything will fall into place.”
 
 &nbsp;
 

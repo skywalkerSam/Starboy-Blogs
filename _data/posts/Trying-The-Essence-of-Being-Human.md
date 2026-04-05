@@ -1,6 +1,6 @@
 ---
-title: "Trying — The Essence of Being Human..."
-excerpt: "Trying is the most human thing we can do..."
+title: "Trying—The Essence of Being Human"
+excerpt: "Trying is the most human thing we can do."
 coverImage: "https://images.unsplash.com/photo-1709125504322-34cad05baf58"
 date: "2025-09-12"
 author:

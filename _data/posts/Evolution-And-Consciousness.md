@@ -1,6 +1,6 @@
 ---
-title: "Evolution & Consciousness…"
-excerpt: "A question trying to answer itself…"
+title: "Evolution & Consciousness"
+excerpt: "A question trying to answer itself."
 coverImage: "https://images-assets.nasa.gov/image/PIA15658/PIA15658~orig.jpg"
 date: "2025-10-26"
 author:

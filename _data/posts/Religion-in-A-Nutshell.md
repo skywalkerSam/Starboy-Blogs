@@ -1,6 +1,6 @@
 ---
-title: "Religion – in A Nutshell..."
-excerpt: "For the love of living deep…"
+title: "Religion–in A Nutshell..."
+excerpt: "For the love of living deep."
 coverImage: "https://images.unsplash.com/photo-1759350596561-aa09ccbc281b"
 date: "2025-09-29"
 author:

@@ -1,6 +1,6 @@
 ---
-title: "A Night to Remember..."
-excerpt: "Shit happens, life goes on..."
+title: "A Night to Remember"
+excerpt: "Shit happens, life goes on."
 coverImage: "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000536/GSFC_20171208_Archive_e000536~orig.jpg"
 date: "2025-01-21"
 author:

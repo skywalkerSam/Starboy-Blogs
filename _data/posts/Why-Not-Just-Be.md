@@ -1,6 +1,6 @@
 ---
-title: "Why Not Just Be...?"
-excerpt: "Poetic view of a flower's existence on a tree..."
+title: "Why Not Just Be?"
+excerpt: "Poetic view of a flower's existence on a tree."
 coverImage: "https://images.unsplash.com/photo-1757336522969-986fdee8e782"
 date: "2025-09-09"
 author:

@@ -1,6 +1,6 @@
 ---
-title: "The Vibe..."
-excerpt: "it is in strange moments like these when the entire essence of existence comes alive…"
+title: "The Vibe"
+excerpt: "it is in strange moments like these, when the entire essence of existence comes alive!"
 coverImage: "https://images-assets.nasa.gov/image/s31-05-008/s31-05-008~orig.jpg"
 date: "2025-05-21"
 author:
@@ -56,7 +56,7 @@ Shit happens, life goes on. Life always goes on. And so, the show must go on. it
 
 &nbsp;
 
-it is in strange moments like these when the entire essence of existence comes alive. So strange this life, just a dream of a dream…
+it is in strange moments like these, when the entire essence of existence comes alive. So strange this life, just a dream of a dream…
 
 &nbsp;
 

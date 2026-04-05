@@ -1,6 +1,6 @@
 ---
-title: "Strangers Passing By…"
-excerpt: "And then, i see a stranger, and i get lost inside her eyes…"
+title: "Strangers Passing By"
+excerpt: "And then, i see a stranger and i get lost inside her eyes…"
 coverImage: "https://images-assets.nasa.gov/image/hubble-observes-one-of-a-kind-star-nicknamed-nasty_17754652960_o/hubble-observes-one-of-a-kind-star-nicknamed-nasty_17754652960_o~orig.jpg"
 date: "2025-08-24"
 author:
