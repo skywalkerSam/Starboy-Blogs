@@ -1,6 +1,6 @@
 ---
-title: "Change — The Essence of Existence..."
-excerpt: "Everything changes."
+title: "Change—The Essence of Existence."
+excerpt: "Everything changes. Nothing lasts forever."
 coverImage: "https://images.unsplash.com/photo-1757437785287-1e67d1f101e9"
 date: "2025-08-31"
 author:

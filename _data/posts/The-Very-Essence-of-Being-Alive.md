@@ -1,5 +1,5 @@
 ---
-title: "The Very Essence of Being Alive..."
+title: "The Essence of Being Alive"
 excerpt: "Astronaut Edward H. White II, pilot for the Gemini-Titan 4 (GT-4) spaceflight, floats in the zero-gravity of space during the third revolution of the GT-4 spacecraft."
 coverImage: "https://images-assets.nasa.gov/image/S65-29730/S65-29730~orig.jpg"
 date: "2025-05-04T03:35:07.322Z"

@@ -1,6 +1,6 @@
 ---
-title: "The Human Condition..."
-excerpt: "Fix yourself before fixing the world…"
+title: "The Human Condition"
+excerpt: "Fix yourself before fixing the world."
 coverImage: "https://images-assets.nasa.gov/image/S69-34319/S69-34319~orig.jpg"
 date: "2025-09-26"
 author:

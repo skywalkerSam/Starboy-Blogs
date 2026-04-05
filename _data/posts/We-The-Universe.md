@@ -1,6 +1,6 @@
 ---
 title: "We, The Universe"
-excerpt: "Life searching for its own origins."
+excerpt: "Life searching for its very own origins."
 coverImage: "https://images.unsplash.com/photo-1756758006047-efc2f2b7d493"
 date: "2026-02-04"
 author:

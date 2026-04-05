@@ -1,6 +1,6 @@
 ---
-title: "Strange, Magical Evenings..."
-excerpt: "i tried putting this fleeting moment into words, but words aren't enough. Certain things in life are to be experienced..."
+title: "Strange, Magical Evenings"
+excerpt: "i tried putting this fleeting moment into words, but words aren't enough. Certain things in life are to be experienced."
 coverImage: "https://images.unsplash.com/photo-1759350581845-c274d1a223db"
 date: "2025-10-01"
 author:

@@ -1,6 +1,6 @@
 ---
-title: "A Better Future…"
-excerpt: "Better for whom?"
+title: "A Better Future"
+excerpt: "But, better for whom?"
 coverImage: "https://images.unsplash.com/photo-1760180235294-c62fc2b25697"
 date: "2025-10-11"
 author:

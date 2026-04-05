@@ -1,6 +1,6 @@
 ---
-title: "i — Wake Up & Suffer..."
-excerpt: "Story of my life..."
+title: "i—Wake Up & Suffer"
+excerpt: "Story of my life."
 coverImage: "https://images.unsplash.com/photo-1757437785276-c4c7d1627911"
 date: "2025-09-01"
 author:

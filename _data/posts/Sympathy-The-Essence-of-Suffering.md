@@ -1,5 +1,5 @@
 ---
-title: "Sympathy — The Essence of Suffering..."
+title: "Sympathy—The Essence of Suffering"
 excerpt: "Existence is punishment enough."
 coverImage: "https://images.unsplash.com/photo-1667160044131-75b9171727c9"
 date: "2025-09-13"
@@ -133,23 +133,6 @@ Fix yourself before fixing the world.
 &nbsp;
 
 Existence is punishment enough.
-
-&nbsp;
-
-———
-
-&nbsp;
-
-Stars will shine,  
-lights will glow,  
-time will pass,  
-nights will come,  
-You'll fall asleep,  
-and everything will be okay...  
-
-&nbsp;
-
-———
 
 &nbsp;
 

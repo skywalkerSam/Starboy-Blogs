@@ -1,6 +1,6 @@
 ---
-title: "A Starboy..."
-excerpt: "... Who is Starboy?"
+title: "A Starboy"
+excerpt: "What does it mean to be a Starboy?"
 coverImage: "https://images.unsplash.com/photo-1758098815437-774a64d835dc"
 date: "2025-03-21"
 author:
@@ -12,7 +12,7 @@ ogImage:
 
 &nbsp;
 
-Oh, the title Starboy... First of all, No\* it isn't inspired by The Weeknd’s 2016 Album, Starboy (Although, it is a good album.)
+Oh, the name Starboy... First of all, No\* it isn't inspired by The Weeknd’s 2016 Album, Starboy (Although, it is a good album.)
 
 &nbsp;
 
