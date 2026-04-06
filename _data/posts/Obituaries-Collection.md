@@ -345,7 +345,7 @@ You don’t have to be strong anymore. You don’t have to pretend you’re not 
 
 &nbsp;
 
-Until Next Time... ✌️
+Until next time... ✌️
 
 &nbsp;
 

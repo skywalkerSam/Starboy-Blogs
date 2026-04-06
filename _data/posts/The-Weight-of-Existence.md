@@ -62,7 +62,7 @@ of their own...
 
 &nbsp;
 
-Until Next Time... ✌️
+Until next time... ✌️
 
 &nbsp;
 

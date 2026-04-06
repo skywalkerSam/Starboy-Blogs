@@ -60,7 +60,7 @@ And after all, i am a boy, so there you go... "Starboy".
 
 &nbsp;
 
-Until Next Time... ✌️
+Until next time... ✌️
 
 &nbsp;
 

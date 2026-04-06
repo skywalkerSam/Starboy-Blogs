@@ -115,7 +115,7 @@ _i tried putting this fleeting moment into words, but words aren't enough. Certa
 
 &nbsp;
 
-Until Next Time... ✌️
+Until next time... ✌️
 
 &nbsp;
 

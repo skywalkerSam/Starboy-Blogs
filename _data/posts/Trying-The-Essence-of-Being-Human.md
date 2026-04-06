@@ -187,7 +187,7 @@ Trying is the most human thing we can do.
 
 &nbsp;
 
-Until Next Time... ✌️
+Until next time... ✌️
 
 &nbsp;
 

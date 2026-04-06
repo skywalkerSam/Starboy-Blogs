@@ -142,7 +142,7 @@ Existence is punishment enough.
 
 &nbsp;
 
-Until Next Time... ✌️
+Until next time... ✌️
 
 &nbsp;
 

@@ -151,7 +151,7 @@ Life goes on,
 
 &nbsp;
 
-Until Next Time... ✌️
+Until next time... ✌️
 
 &nbsp;
 

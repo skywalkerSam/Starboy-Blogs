@@ -115,7 +115,7 @@ Lately, i've been realizing a lot…
 
 &nbsp;
 
-Until Next Time... ✌️
+Until next time... ✌️
 
 &nbsp;
 

@@ -126,7 +126,7 @@ _Oh, the distance between what should be and what is..._
 
 &nbsp;
 
-Until Next Time... ✌️
+Until next time... ✌️
 
 &nbsp;
 
