@@ -1,6 +1,6 @@
 ---
 title: "Hazelnuts"
-excerpt: "Another day of sun."
+excerpt: "i showed up, and she didn’t. Let's just leave it at that."
 coverImage: "https://images.unsplash.com/photo-1771455600626-ba4574153cc0"
 date: "2026-04-06"
 author:
