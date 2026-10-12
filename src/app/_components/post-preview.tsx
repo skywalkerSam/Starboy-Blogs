@@ -34,7 +34,7 @@ export function PostPreview({
       <div className="mb-4">
         <DateFormatter dateString={date} />
       </div>
-      <p className="mb-4 text-lg leading-relaxed">
+      <p className="mb-4 text-lg leading-relaxed font-sans">
         {excerpt ?? "Life goes on..."}
       </p>
       <Avatar

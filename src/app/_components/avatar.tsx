@@ -7,7 +7,7 @@ const Avatar = ({ name, picture }: Props) => {
   return (
     <div className="flex items-center">
       <a
-        href="https://instagram.com/skywalkersam_"
+        href="https://www.threads.com/skywalkersam_"
         target="_blank"
         rel="noopener noreferrer"
       >
@@ -18,7 +18,7 @@ const Avatar = ({ name, picture }: Props) => {
         target="_blank"
         rel="noopener noreferrer"
       >
-        <div className="hover:underline">{name}</div>
+        <div className="hover:underline font-paprika">{name}</div>
       </a>
     </div>
   );

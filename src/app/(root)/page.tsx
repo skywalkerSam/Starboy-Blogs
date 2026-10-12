@@ -1,4 +1,5 @@
 import Container from "../_components/container";
+import DefaultView from "../_components/default-view";
 import { HeroPost } from "../_components/hero-post";
 import type { HeroPostTypes } from "../_components/hero-post";
 import { Intro } from "../_components/intro";
@@ -19,14 +20,17 @@ export default async function Index() {
     <main>
       <Container>
         <Intro />
-        <HeroPost
-          title={heroPost?.title}
-          coverImage={heroPost?.coverImage}
-          date={heroPost?.date}
-          author={heroPost?.author}
-          slug={heroPost?.slug}
-          excerpt={heroPost?.excerpt}
-        />
+        <DefaultView></DefaultView>
+        {/* {heroPost && (
+          <HeroPost
+            title={heroPost?.title}
+            coverImage={heroPost?.coverImage}
+            date={heroPost?.date}
+            author={heroPost?.author}
+            slug={heroPost?.slug}
+            excerpt={heroPost?.excerpt}
+          />
+        )} */}
         {morePosts.length > 0 && <MoreStories posts={morePosts} />}
       </Container>
     </main>
