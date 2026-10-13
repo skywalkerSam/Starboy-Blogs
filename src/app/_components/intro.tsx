@@ -4,7 +4,7 @@ export function Intro() {
       <h1 className="text-5xl leading-tight font-bold tracking-tighter md:pr-8 md:text-8xl font-paprika">
         Blog.
       </h1>
-      <h4 className="mt-5 text-center text-lg md:pl-8 md:text-left">
+      <h4 className="mt-5 text-center text-lg md:pl-8 md:text-left font-sans">
         A Starboy&apos;s Blog.
       </h4>
     </section>

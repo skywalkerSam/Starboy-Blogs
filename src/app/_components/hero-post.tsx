@@ -33,13 +33,13 @@ export function HeroPost({
               {title}
             </Link>
           </h3>
-          <div className="mb-4 md:mb-0">
+          <div className="mb-4 md:mb-0 font-sans">
             <DateFormatter dateString={date} />
           </div>
         </div>
         <div>
-          <p className="mb-4 text-lg leading-relaxed">{excerpt}</p>
-          <Avatar name={author.name} picture={author.picture} />
+          <p className="mb-4 text-lg leading-relaxed font-sans">{excerpt}</p>
+          <Avatar name={author?.name} picture={author?.picture} />
         </div>
       </div>
     </section>
